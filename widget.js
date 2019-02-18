@@ -1,3 +1,6 @@
+// ASSUMPTION:
+// The API returns data with the names that I have used.
+
 const taboolaAPI = 'https://taboola.api/url/goes/here'
 const articleContainerDiv = document.querySelector('container')
 
@@ -15,6 +18,7 @@ const renderAllArticles = articles => {
   })
 }
 
+// Render a single article
 const renderSingleArticle = article => {
   const newArticle = document.createElement('article')
   newArticle.setAttribute('href', article.url)
