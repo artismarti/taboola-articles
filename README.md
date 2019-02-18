@@ -4,7 +4,7 @@
 The API returns data with the names that I have used.
 
 ### Notes:
-In the absence of an actual API I have rendered all the HTML here manually. If I had access to the API I would have used the widget.js file (in index.html)[https://github.com/artismarti/taboola-articles/blob/24b16775fe3b7025bc38995b5f4f65b1cf948e8a/index.html#L100] to render the html
+In the absence of an actual API I have rendered all the HTML here manually. If I had access to the API I would have used the widget.js file [in index.html](https://github.com/artismarti/taboola-articles/blob/24b16775fe3b7025bc38995b5f4f65b1cf948e8a/index.html#L100) to render the html
 
 ## Build responsive page that shows articles
 
